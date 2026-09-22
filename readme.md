@@ -99,6 +99,11 @@ After a test run, open the auto-generated HTML report:
 reports/report.html
 ```
 
+## 👤 Author
+
+* **Name:** Ariful Islam  
+* **Email:** [arifulislam.ash8@gmail.com](mailto:arifulislam.ash8@gmail.com)
+
 ## License
 
 [MIT](LICENSE)
